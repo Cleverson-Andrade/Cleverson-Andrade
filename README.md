@@ -58,9 +58,9 @@ Busco minha primeira oportunidade na área de dados, onde minhas habilidades em 
 
 ### 💻 Meus Projetos em Destaque no GitHub:
 
-* [Módulo 1 de PostgreSQL: Fundamentos e Prática](https://github.com/Cleverson-Andrade/modulo-1-postgresql-geek-university)
+* [PostgreSQL: Fundamentos e Prática](https://github.com/Cleverson-Andrade/modulo-1-postgresql-geek-university)
 * [Projeto SQL: Sistema de Gerenciamento de Farmácia (MySQL)](https://github.com/Cleverson-Andrade/projeto-farmacia-sql)
-* [Módulo Prático de MySQL: Fundamentos e Operações Avançadas](https://github.com/Cleverson-Andrade/modulo-pratico-mysql-geek-university)
+* [MySQL: Fundamentos e Operações Avançadas](https://github.com/Cleverson-Andrade/modulo-pratico-mysql-geek-university)
 
 ---
 
