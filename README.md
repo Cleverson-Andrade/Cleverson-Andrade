@@ -1,4 +1,4 @@
-### Olá! 👋 Sou o Cleverson Andrade
+### Olá, Me chamo Cleverson Moura Andrade
 
 Sou um **profissional em transição de carreira**, dedicado e com forte interesse em **Banco de Dados Relacionais (SQL)** e **Ciência de Dados**. Com uma sólida base em organização, análise e resolução de problemas, busco aplicar minhas habilidades e meu aprendizado contínuo em um ambiente dinâmico, contribuindo ativamente para o sucesso de uma equipe.
 
