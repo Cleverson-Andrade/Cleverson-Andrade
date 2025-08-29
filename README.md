@@ -42,8 +42,8 @@ Meu objetivo é transformar dados em insights acionáveis que apoiem a tomada de
 
 ## 📂 Projetos em Destaque  
 🔹 [Dashboard Interativo – Análise de Salários](https://imersao-dados-com-python-alura.streamlit.app/) (Python, Pandas, Plotly, Streamlit)  
-🔹 [Desafio Técnico – Indicium Lighthouse](https://github.com/Cleverson-Andrade) (EDA, Machine Learning, Regressão Linear)  
-🔹 [Sistema de Locadora de Filmes com PostgreSQL](https://github.com/Cleverson-Andrade) (modelagem relacional, consultas avançadas)  
+🔹 [Desafio Técnico – Indicium Lighthouse](https://github.com/Cleverson-Andrade/Desafio_Indicium_Lighthouse) (EDA, Machine Learning, Regressão Linear)  
+🔹 [Sistema de Locadora de Filmes com PostgreSQL](https://github.com/Cleverson-Andrade/projeto-locadora-postgresql) (modelagem relacional, consultas avançadas)  
 
 ➡️ Mais projetos no meu [GitHub](https://github.com/Cleverson-Andrade)  
 
