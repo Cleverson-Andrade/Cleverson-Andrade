@@ -57,4 +57,3 @@ Busco minha **primeira oportunidade na área de Dados**, onde possa aplicar minh
 ## 🔗 Conecte-se comigo  
 📩 E-mail: **cleversonmouraandrade@gmail.com**  
 💼 LinkedIn: [linkedin.com/in/cleversonmandrade](https://www.linkedin.com/in/cleversonmandrade/)  
-🐙 GitHub: [github.com/Cleverson-Andrade](https://github.com/Cleverson-Andrade)  
