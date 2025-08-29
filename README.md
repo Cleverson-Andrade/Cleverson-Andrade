@@ -45,7 +45,7 @@ Meu objetivo é transformar dados em insights acionáveis que apoiem a tomada de
 🔹 [Desafio Técnico – Indicium Lighthouse](https://github.com/Cleverson-Andrade/Desafio_Indicium_Lighthouse) (EDA, Machine Learning, Regressão Linear)  
 🔹 [Sistema de Locadora de Filmes com PostgreSQL](https://github.com/Cleverson-Andrade/projeto-locadora-postgresql) (modelagem relacional, consultas avançadas)  
 
-➡️ Mais projetos no meu [GitHub](https://github.com/Cleverson-Andrade)  
+➡️ Mais projetos no meu [GitHub](https://github.com/Cleverson-Andrade?tab=repositories)  
 
 ---
 
