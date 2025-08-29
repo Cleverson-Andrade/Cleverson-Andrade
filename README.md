@@ -1,4 +1,4 @@
-# Olá! Eu sou o Cleverson Moura Andrade  
+# 👋 Olá! Eu sou o Cleverson Moura Andrade  
 
 🎯 **Analista de Dados em formação** | Foco em SQL, Python, Power BI e Ciência de Dados  
 🚀 Em transição de carreira após 10 anos de experiência em atendimento, gestão de estoque e processos administrativos.  
@@ -8,7 +8,17 @@ Meu objetivo é transformar dados em insights acionáveis que apoiem a tomada de
 
 ---
 
-## 🛠️ Tecnologias & Habilidades Técnicas  
+## 🚀 Tecnologias  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+
+---
+
+## 🛠️ Habilidades Técnicas  
 
 **Banco de Dados (SQL)**  
 - Modelagem de Dados (DER, normalização)  
@@ -55,5 +65,6 @@ Busco minha **primeira oportunidade na área de Dados**, onde possa aplicar minh
 ---
 
 ## 🔗 Conecte-se comigo  
-📩 E-mail: **cleversonmouraandrade@gmail.com**  
+📩 E-mail: [cleversonmouraandrade@gmail.com](mailto:cleversonmouraandrade@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/cleversonmandrade](https://www.linkedin.com/in/cleversonmandrade/)  
+🐙 GitHub: [github.com/Cleverson-Andrade](https://github.com/Cleverson-Andrade?tab=repositories)  
