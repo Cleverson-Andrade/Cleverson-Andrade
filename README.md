@@ -36,17 +36,17 @@ Meu objetivo é transformar dados em insights acionáveis que apoiem a tomada de
 - Excel Avançado (tabelas dinâmicas, gráficos interativos)  
 - Fundamentos de TI  
 
-**Em desenvolvimento (Google Cloud)**  
+**Aprendizado em andamento (Google Cloud)**  
 - Big Data | Machine Learning | BigQuery | Cloud Computing  
 
 ---
 
 ## 🌟 Habilidades Comportamentais (Soft Skills)  
-✔️ Raciocínio lógico e capacidade analítica  
-✔️ Resolução de problemas e proatividade  
-✔️ Rápido aprendizado e curiosidade contínua  
-✔️ Organização e atenção aos detalhes  
-✔️ Comunicação eficaz e trabalho em equipe  
+✔ Raciocínio lógico e analítico
+✔ Resolução de problemas
+✔ Aprendizado rápido e curiosidade
+✔ Organização e atenção aos detalhes
+✔ Comunicação e trabalho em equipe
 
 ---
 
