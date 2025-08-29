@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Cleverson Moura Andrade  
+# Olá! Eu sou o Cleverson Moura Andrade  
 
 🎯 **Analista de Dados em formação** | Foco em SQL, Python, Power BI e Ciência de Dados  
 🚀 Em transição de carreira após 10 anos de experiência em atendimento, gestão de estoque e processos administrativos.  
